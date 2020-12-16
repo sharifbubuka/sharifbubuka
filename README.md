@@ -2,7 +2,7 @@
 
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
-I'm a 21 year old, who is passionate about writing code, solving problems, automating stuff, and building software.
+I'm a 22 year old, who is passionate about writing code, solving problems, automating stuff, and building software.
 
 - 🔭 I’m currently a CS student at Makerere University, in Uganda.
 - 📚 I’m currently learning web devlopment with the MERN stack.
