@@ -10,4 +10,4 @@ I'm a computer science student who is passionate about writing code, solving pro
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/bubuka-sharif-74156b176/) [Gmail](mailto:sharifbubuka256@gmail.com)
 
 ⭐️ From [kautukkundan](https://github.com/kautukkundan)
-Inspired from [Hazemessam](https://github.com/ hazemessam)
+Inspired from [Hazemessam](https://github.com/hazemessam)
