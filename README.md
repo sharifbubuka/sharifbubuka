@@ -9,5 +9,3 @@ I'm a 22 year old, who is passionate about writing code, solving problems, autom
 - 👯 I’m looking for a software development part-time job or internship. 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/bubuka-sharif-74156b176/) [Gmail](mailto:sharifbubuka.work@gmail.com)
 
-⭐️ From [kautukkundan](https://github.com/kautukkundan)
-Inspired from [Hazemessam](https://github.com/hazemessam)
