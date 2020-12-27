@@ -7,7 +7,7 @@ I'm a 22 year old, who is passionate about writing code, solving problems, autom
 - 🔭 I’m currently a CS student at Makerere University, in Uganda.
 - 📚 I’m currently learning web devlopment with the MERN stack.
 - 👯 I’m looking for a software development part-time job or internship. 
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/bubuka-sharif-74156b176/) [Gmail](mailto:sharifbubuka256@gmail.com)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/bubuka-sharif-74156b176/) [Gmail](mailto:sharifbubuka.work@gmail.com)
 
 ⭐️ From [kautukkundan](https://github.com/kautukkundan)
 Inspired from [Hazemessam](https://github.com/hazemessam)
