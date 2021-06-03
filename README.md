@@ -7,9 +7,9 @@
 I'm a 22 year old, who is passionate about writing code, solving problems, automating stuff, and building software.
 
 - 🔭 I’m currently a Computer Science student at Makerere University, in Uganda.
-- 📚 I’m currently learning web devlopment with the MERN stack.
-- 👯 I’m looking for a software development part-time job or internship. 
-- 💡 I love solving challenges. Feel free to sit down with me and take me through it.
+- 📚 I am a MERN stack developer and exploring my interest in Blockchain technologies.
+- 👯 We are building a better and more local way to fundraise at <a href="https://github.com/Papohand">Papohand Inc.</a> Reach out, if that's a challenge you'd love solving.
+- 💡 Otherwise, fun is logically justified. I love travelling, learning new languages, insightful talks and recording music.
 
 <div>
   
