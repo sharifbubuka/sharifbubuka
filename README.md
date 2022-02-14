@@ -4,10 +4,10 @@
 
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
-I'm a 22 year old, who is passionate about writing code, solving problems, automating stuff, and building software.
+I'm a 23 year old, who is passionate about writing code, solving problems, automating stuff, and building software.
 
 - 🔭 I’m currently a Computer Science student at Makerere University, in Uganda.
-- 📚 I am a MERN stack developer and exploring my interest in Blockchain technologies.
+- 📚 Javascript | Typescript | Node | Reactjs | Nextjs | Gatsby - Shopify Developer
 - 👯 We are building a better and more local way to fundraise at <a href="https://github.com/Papohand">Papohand Inc.</a> Reach out, if that's a challenge you'd love solving.
 - 💡 Otherwise, fun is logically justified. I love travelling, learning new languages, insightful talks and recording music.
 
