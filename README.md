@@ -6,10 +6,9 @@
 
 I'm a 23 year old, who is passionate about writing code, solving problems, automating stuff, and building software.
 
-- 🔭 I’m currently a Computer Science student at Makerere University, in Uganda.
-- 📚 Javascript | Typescript | Node | Reactjs | Nextjs | Gatsby - Shopify Developer
-- 👯 We are building a better and more local way to fundraise at <a href="https://github.com/Papohand">Papohand Inc.</a> Reach out, if that's a challenge you'd love solving.
-- 💡 Otherwise, fun is logically justified. I love travelling, learning new languages, insightful talks and recording music.
+- 🔭👯 II'm a shopify developer at Foxelli Group by day, and a computer science student at Makerere University by evening. In-between, am a geek in love with my gadgets and software
+- 📚 Javascript | Typescript | Nodejs | Reactjs | Nextjs | Gatsby | MongoDB | Shopify | ~ Java & Python
+- 💡 Otherwise, I love dogs and have a pet Maltese called Pixel, speak fluent german (C1), i'm a recording artiste and ardent debator. 
 
 <div>
   
