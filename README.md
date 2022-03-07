@@ -6,9 +6,9 @@
 
 I'm a 23 year old, who is passionate about writing code, solving problems, automating stuff, and building software.
 
-- 🔭👯 II'm a shopify developer at Foxelli Group by day, and a computer science student at Makerere University by evening. In-between, am a geek in love with my gadgets and software
+- 🔭👯 II'm a shopify developer at Foxelli Group by day, and a computer science student at Makerere University by evening. In-between, I am striving to be a good person, for the world needs more of that.
 - 📚 Javascript | Typescript | Nodejs | Reactjs | Nextjs | Gatsby | MongoDB | Shopify | ~ Java & Python
-- 💡 Otherwise, I love dogs and have a pet Maltese called Pixel, speak fluent german (C1), i'm a recording artiste and ardent debator. 
+- 💡 Otherwise, I love dogs and I have a pet Maltese called Pixel, I speak ~ german (C1), i'm a recording artiste and ardent debator. 
 
 <div>
   
